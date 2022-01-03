@@ -7,9 +7,14 @@
 
 ## Overview
 
-This repo contains Terraform code for creating the docker container with Nginx. Nginx will answer at 8001 port
+This repo contains Terraform code for creating the docker container with Nginx. Nginx will answer in 8001 port
 
-  ## Usage
+## Tech Stack
+**1.** Terraform.<br>
+**2.** Docker.<br>
+**3.** Nginx.<br>
+
+## Usage
 
 **1.** Clone repository.<br>
 **2.** From the main project directory run the following commands:
